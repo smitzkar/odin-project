@@ -6,3 +6,14 @@ Combine the stuff I've learned (or was supposed to have learned) so far to build
 
 Get some practice with input validation.  
 
+## Requirements  
+
+- two columns of content  
+  1. background image with logo and credit overlay  
+  2. basic text + sign up form    
+
+- form with validation for matching passwords, non-empty fields, proper e-mail, phone nuber  
+
+- cool visual indicator for when currently in form -> looks like blue-ish shadow, slight pop-up  
+- similar (red) one for invalid entry  
+
